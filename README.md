@@ -4,7 +4,7 @@ project that shows details of a Instagram user in a tree manner(see attached scr
 
 
 # Installation
-1.clone the repo using git clone.
+1.clone the repo using git clone.<br>
 2.install the requirements from the requirements.txt file using <b>pip install -r requirements.txt</b>
 
 
